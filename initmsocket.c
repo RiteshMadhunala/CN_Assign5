@@ -20,7 +20,7 @@
 #else
 #define myprintf
 #endif
-//making change to enact a real world scenario
+
 #define T 5
 #define KEY 1234
 #define KEY2 1000
