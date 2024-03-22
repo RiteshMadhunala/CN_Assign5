@@ -15,6 +15,8 @@
 #include <time.h>
 #include "msocket.h"
 
+// final changes in my branch ritesh
+
 #ifdef DEBUG
 #define myprintf printf
 #else
@@ -62,7 +64,7 @@ float p = 0.75;
 // {
 //     char data[MAX_PAYLOAD_SIZE];
 //     int seq_num;
-//     int ack_num;
+//     int ack_num;g
 //     int is_last;
 //     int is_ack;
 //     int is_nack;
