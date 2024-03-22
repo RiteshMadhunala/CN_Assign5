@@ -335,7 +335,6 @@ int main()
 
     SOCK_INFO *sockinfo;
     MTPSocketEntry *SM;
-    //  int * mtp_errno;
 
     shmid1 = shmget(key5, sizeof(int), 0777 | IPC_CREAT);
 
